@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/xinwei-ge.github.io/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/xinwei-ge.github.io/static/js/main.b072214a.chunk.js",
+    "main.js.map": "/xinwei-ge.github.io/static/js/main.b072214a.chunk.js.map",
+    "runtime-main.js": "/xinwei-ge.github.io/static/js/runtime-main.84725cc7.js",
+    "runtime-main.js.map": "/xinwei-ge.github.io/static/js/runtime-main.84725cc7.js.map",
+    "static/js/2.1c6a927f.chunk.js": "/xinwei-ge.github.io/static/js/2.1c6a927f.chunk.js",
+    "static/js/2.1c6a927f.chunk.js.map": "/xinwei-ge.github.io/static/js/2.1c6a927f.chunk.js.map",
+    "static/js/3.47019d41.chunk.js": "/xinwei-ge.github.io/static/js/3.47019d41.chunk.js",
+    "static/js/3.47019d41.chunk.js.map": "/xinwei-ge.github.io/static/js/3.47019d41.chunk.js.map",
+    "index.html": "/xinwei-ge.github.io/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/xinwei-ge.github.io/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.1c6a927f.chunk.js.LICENSE.txt": "/xinwei-ge.github.io/static/js/2.1c6a927f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/xinwei-ge.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84725cc7.js",
+    "static/js/2.1c6a927f.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.b072214a.chunk.js"
+  ]
+}
