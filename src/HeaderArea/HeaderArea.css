@@ -3,11 +3,16 @@ html{
     box-sizing: border-box;
 }
 
-body {
+body{
     font: 1.6rem helvetica;
     height: 100vh;
     margin: 0;
     background-color: #f9f9f9;
+}
+
+.HeaderArea{
+    height: 6rem;
+    width: 100%;
 }
 
 .Header{
@@ -32,18 +37,20 @@ body {
 .button{
     border: none;
     font-size: 2.5rem;
-    background-color: none;
+    background: none;
     margin: 0 12px;
 
 }
 
-input[type="search"] {
+input[type="search"]{
     height: 3.5rem;
     width: 100%;
     border: none;
 }
+
 input::placeholder {font-size: 2rem;}
-.Search {
+
+.Search{
     display: flex;
     align-items: center;
     width: 40%;
@@ -59,7 +66,7 @@ input::placeholder {font-size: 2rem;}
     
 }
 
-.Icon {
+.Icon{
     display: flex;
     align-items: center;
     margin: 12px;

@@ -17,7 +17,7 @@ function HeaderArea() {
                     <div>Youtube</div>
                 </header>
                 <div className = "Search">
-                    <input type="search" placeholder="search"/>
+                    <input type="search"placeholder="search"/>
                     <div className="search">
                         <MdSearch fontSize="3rem"/>
                     </div>
