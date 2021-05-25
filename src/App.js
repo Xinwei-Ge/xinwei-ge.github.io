@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import HeaderArea from './HeaderArea/HeaderArea';
 
 function App() {
   return (
     <div className="App">
-    <h1>Xinwei Ge</h1>
+    <HeaderArea/>
     </div>
   );
 }
